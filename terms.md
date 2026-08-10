@@ -2,7 +2,7 @@
 
 These Terms and Conditions ("Terms") govern your use of the Nice Words mobile application (the "App") operated by **Aleksandra Lisek** ("we", "us", "our").
 
-By using the App, you agree to these Terms. If you do not agree, do not use the App.
+By creating an account and continuing past the consent screen (which links to these Terms and our Privacy Policy), you actively accept these Terms. If you do not agree, do not create an account and do not use the App.
 
 **Effective date:** August 9, 2026
 **Last updated:** August 9, 2026
@@ -115,6 +115,8 @@ Free-tier users see advertisements served by Google AdMob. Ads may be personaliz
 ## 9. User Content
 
 You retain ownership of the content you create in the App (custom affirmations, groups, badges, notes). By using the App, you grant us a limited, non-exclusive, worldwide, royalty-free license to store, sync across your devices, and display your content solely to provide the service to you.
+
+We may also process aggregated, anonymized data derived from user content and usage for the purpose of understanding usage patterns and improving the App. Such aggregated data cannot be traced back to individual users and is not shared with third parties for their independent commercial purposes.
 
 You are responsible for the content you create. Do not create content that:
 
@@ -246,7 +248,7 @@ If you are not satisfied with our response, you may:
 
 ## 22. General Provisions
 
-**Force Majeure:** Neither party is liable for failure to perform obligations due to circumstances beyond their reasonable control, including but not limited to natural disasters, war, pandemics, government actions, or infrastructure outages of upstream providers (e.g., Firebase, Apple, Google).
+**Force Majeure:** Neither party is liable for failure to perform obligations due to circumstances beyond their reasonable control, including but not limited to natural disasters, war, acts of terrorism, civil unrest, pandemics, government actions, cyber attacks or security incidents affecting our providers, and infrastructure outages of upstream providers (e.g., Firebase, Apple, Google).
 
 **Severability:** If any provision of these Terms is found unenforceable, the remaining provisions remain in effect.
 

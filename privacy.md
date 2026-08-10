@@ -57,6 +57,10 @@ For users in the EU / EEA, we process personal data under the following legal ba
 - **Legitimate interest** — see below
 - **Legal obligation** — where required by applicable law
 
+### Users outside the EU/EEA
+
+For users outside the EU/EEA, we process personal data based on your consent (given by creating an account and continuing to use the App) and the performance of the contract between us. Where applicable local laws provide additional bases or requirements (e.g., LGPD in Brazil, CCPA/CPRA in the United States), we apply those alongside — see the dedicated sections below.
+
 ### Specific legitimate interests we pursue
 
 Where we rely on legitimate interest as a legal basis, our specific interests are:
@@ -220,9 +224,19 @@ You have the right to:
 - Correct inaccurate information
 - Opt out of Sharing (see above)
 - Non-discrimination for exercising these rights
-- Designate an authorized agent
+- Designate an authorized agent (see below)
 
 To exercise these rights: contact.nicewords@gmail.com
+
+### Authorized agents
+
+You may designate an authorized agent to submit CCPA/CPRA requests on your behalf. To process such requests, we will require:
+
+- Written and signed permission from you authorizing the agent
+- Verification of your identity directly with us
+- Verification of the agent's authority (e.g., a signed power of attorney)
+
+Send authorized-agent requests to **contact.nicewords@gmail.com** with the subject line **"AGENT REQUEST"**.
 
 ## 9. Users in Brazil (LGPD)
 
