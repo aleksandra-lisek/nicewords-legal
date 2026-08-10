@@ -45,7 +45,7 @@ Subscriptions purchased on iOS are processed by Apple through the App Store:
 - Subscriptions may be managed by the user, and auto-renewal may be turned off by going to your **Apple ID Account Settings** after purchase.
 - Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription.
 
-### 5.2 Billing (Google Play — Android users)
+### 5.3 Billing (Google Play — Android users)
 
 Subscriptions purchased on Android are processed by Google through Google Play:
 
@@ -53,17 +53,17 @@ Subscriptions purchased on Android are processed by Google through Google Play:
 - Subscription automatically renews unless canceled at least 24 hours before the end of the current period.
 - You can manage and cancel your subscription by going to **Google Play → Menu → Subscriptions**.
 
-### 5.3 Cancellation
+### 5.4 Cancellation
 
 - Manage or cancel your subscription in your device's App Store or Google Play account settings.
 - Cancellation stops future renewals; you retain access until the end of the current billing period.
 - No refunds are provided for partial subscription periods, except where required by law.
 
-### 5.4 Free Trials
+### 5.5 Free Trials
 
 If offered, free trials automatically convert to paid subscriptions unless canceled at least **24 hours before the trial ends**.
 
-### 5.5 Right of Withdrawal (EU/EEA consumers)
+### 5.6 Right of Withdrawal (EU/EEA consumers)
 
 If you are a consumer resident in the EU/EEA, you have the right under the EU Consumer Rights Directive to withdraw from your purchase within **14 days** from the date of purchase, without giving any reason.
 
@@ -75,9 +75,9 @@ If you have not yet used the Premium features and wish to withdraw within 14 day
 
 **Note:** Because subscriptions are processed by Apple or Google, refund requests must be submitted through their respective refund flows (see Section 6). We will assist you if the store rejects a valid withdrawal request.
 
-For subscription renewals, no new withdrawal right arises — you may cancel future renewals per Section 5.3.
+For subscription renewals, no new withdrawal right arises — you may cancel future renewals per Section 5.4.
 
-### 5.6 Price Changes
+### 5.7 Price Changes
 
 If we increase the price of your subscription:
 - We will notify you at least **30 days in advance** via email and/or through the App
@@ -93,7 +93,7 @@ Because payments are processed by Apple or Google (not by us directly), refund r
 
 We do not process refunds directly. However, if you believe you are entitled to a statutory refund under EU consumer law and the store refuses, contact us at **contact.nicewords@gmail.com** and we will assist.
 
-## 6.5 Consumer Rights (EU / EEA)
+## 7. Consumer Rights (EU / EEA)
 
 For consumers in the EU/EEA, the following statutory rights apply in addition to any other rights in these Terms and cannot be waived:
 
@@ -108,13 +108,13 @@ For consumers in the EU/EEA, the following statutory rights apply in addition to
 
 You must inform us of the non-conformity within a reasonable time. Contact us at **contact.nicewords@gmail.com** to invoke these rights.
 
-## 7. Advertising
+## 8. Advertising
 
 Free-tier users see advertisements served by Google AdMob. Ads may be personalized based on your consent choice. You can manage consent at any time in Settings.
 
-## 8. User Content
+## 9. User Content
 
-You retain ownership of the content you create in the App (custom affirmations, groups, badges, notes). By using the App, you grant us a limited, non-exclusive, worldwide, royalty-free license to store, sync across your devices, back up (if applicable), and display your content solely to provide the service to you.
+You retain ownership of the content you create in the App (custom affirmations, groups, badges, notes). By using the App, you grant us a limited, non-exclusive, worldwide, royalty-free license to store, sync across your devices, and display your content solely to provide the service to you.
 
 You are responsible for the content you create. Do not create content that:
 
@@ -124,13 +124,13 @@ You are responsible for the content you create. Do not create content that:
 
 We reserve the right to remove content that violates these Terms.
 
-## 9. Intellectual Property
+## 10. Intellectual Property
 
 All curated affirmation content, designs, logos, and code in the App are owned by Aleksandra Lisek or licensed to us. You may not copy, modify, distribute, or reverse-engineer the App or its content except as permitted by law.
 
 The App uses open-source components; a list of such components and their licenses is available on request.
 
-## 10. Prohibited Uses
+## 11. Prohibited Uses
 
 You may not:
 
@@ -140,11 +140,11 @@ You may not:
 - Use automated systems (bots, scrapers) to access the App
 - Impersonate another person or misrepresent your affiliation
 
-## 11. Third-Party Services
+## 12. Third-Party Services
 
 The App integrates with third-party services (Google Firebase, Apple / Google sign-in, RevenueCat, Sentry, Google AdMob). Your use of these services is subject to their respective terms and privacy policies. See our Privacy Policy for details.
 
-## 12. Availability and Modifications
+## 13. Availability and Modifications
 
 We reserve the right to:
 
@@ -154,13 +154,13 @@ We reserve the right to:
 
 The App is provided "as is" and may occasionally be unavailable due to maintenance, updates, or unforeseen issues.
 
-## 13. Disclaimer of Warranties
+## 14. Disclaimer of Warranties
 
 The App is provided **"AS IS" and "AS AVAILABLE"** without warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement — except to the extent such warranties cannot be excluded by applicable consumer law.
 
 Affirmations and content in the App are for **motivational and general well-being purposes only**. They are not a substitute for professional medical, psychological, or therapeutic advice. If you are experiencing a mental health crisis, contact a licensed professional or your local emergency services.
 
-## 14. Limitation of Liability
+## 15. Limitation of Liability
 
 To the fullest extent permitted by applicable law:
 
@@ -179,13 +179,13 @@ To the fullest extent permitted by applicable law:
 
 **For EU consumers:** Nothing in this section affects your statutory consumer rights under EU law, including under the Consumer Rights Directive, the Sale of Goods Directive, and the Digital Content Directive.
 
-## 15. Your Responsibility for Third-Party Claims
+## 16. Your Responsibility for Third-Party Claims
 
 If a third party makes a claim against us because of content you created or posted using the App that infringes their intellectual property or privacy rights, or otherwise violates the law, you agree to be responsible for defending against that claim, to the extent permitted by applicable law.
 
 **This clause does not apply to EU consumers to the extent it would be unenforceable under EU consumer protection law.**
 
-## 16. Termination
+## 17. Termination
 
 **By you:** You may stop using the App at any time. To fully delete your account and associated data, go to **Settings → Account → Delete Account**, or email us at **contact.nicewords@gmail.com**. Deletion completes within 30 days.
 
@@ -199,7 +199,7 @@ If a third party makes a claim against us because of content you created or post
 
 Termination does not affect any rights or obligations that accrued before termination, or provisions that by their nature should survive (e.g., limitation of liability, governing law).
 
-## 17. Governing Law and Dispute Resolution
+## 18. Governing Law and Dispute Resolution
 
 **Governing law:** These Terms are governed by the laws of **Poland**, without regard to its conflict-of-law rules.
 
@@ -213,18 +213,18 @@ Termination does not affect any rights or obligations that accrued before termin
 - EU consumers may use the European Commission's Online Dispute Resolution (ODR) platform: https://ec.europa.eu/consumers/odr
 - Polish consumers may also contact the Polish Consumer Ombudsman (Rzecznik Konsumentów) in their district.
 
-## 18. Changes to These Terms
+## 19. Changes to These Terms
 
 We may update these Terms from time to time. Material changes will be notified through the App. Continued use of the App after changes constitutes acceptance of the new Terms.
 
-## 19. Contact
+## 20. Contact
 
 For questions about these Terms:
 
 **Aleksandra Lisek**
 Email: **contact.nicewords@gmail.com**
 
-## 20. Complaint Procedure
+## 21. Complaint Procedure
 
 You may file a complaint at any time by emailing **contact.nicewords@gmail.com**.
 
@@ -242,9 +242,9 @@ If we do not respond within 14 days, your complaint is considered accepted.
 If you are not satisfied with our response, you may:
 - Contact the Polish Consumer Ombudsman (Rzecznik Konsumentów)
 - Use the EU ODR platform: https://ec.europa.eu/consumers/odr
-- Bring the matter before the competent court per Section 17
+- Bring the matter before the competent court per Section 18
 
-## 21. General Provisions
+## 22. General Provisions
 
 **Force Majeure:** Neither party is liable for failure to perform obligations due to circumstances beyond their reasonable control, including but not limited to natural disasters, war, pandemics, government actions, or infrastructure outages of upstream providers (e.g., Firebase, Apple, Google).
 

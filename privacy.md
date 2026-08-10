@@ -171,7 +171,7 @@ You have the right to:
 - **Withdraw consent** — withdraw previously granted consent at any time
 - **Lodge a complaint** — file a complaint with your data protection authority
 
-To exercise these rights, contact us at **contact.nicewords@gmail.com**. We respond within 30 days.
+To exercise these rights, contact us at **contact.nicewords@gmail.com**. We respond within 30 days. In exceptional cases involving complex or numerous requests, we may extend this period by up to two additional months, informing you of the reason for the delay within the initial 30-day window (as permitted by GDPR Art. 12(3)).
 
 You can delete your account directly in the App: Settings → Account → Delete Account.
 
@@ -284,7 +284,7 @@ You may request a copy of the applicable transfer mechanism by contacting us.
 
 We implement appropriate technical and organizational measures to protect your data:
 
-- End-to-end HTTPS/TLS for all network communication
+- All network communication is encrypted in transit via HTTPS/TLS
 - Local database encryption on-device (SQLCipher / AES-256)
 - Firebase App Check to prevent abuse
 - Firestore security rules restricting access to authorized users only
